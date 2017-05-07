@@ -1,0 +1,73 @@
+{
+  "earthquakes": [{
+    "country":"Philippines","magnitude":"6.9M","depth":"26km","date":"28 April 2017","impact":"1802246 people within 100km","lat":"005.52","long":"125.09","alert":"medium"},
+    {
+    "country":"Chile","magnitude":"6.9M","depth":"25km","date":"24 April 2017","impact":"1397743 people within 100km","lat":"-033.07","long":"-072.05","alert":"medium"},
+    {
+    "country":"Philippines","magnitude":"5.4M","depth":"10km","date":"12 April 2017","impact":"7308504 people within 100km","lat":"007.70","long":"124.85","alert":"medium"},
+    {
+    "country":"Philippines","magnitude":"5.8M","depth":"8.32km","date":"11 April 2017","impact":"7326581 people within 100km","lat":"007.67","long":"124.80","alert":"medium"},
+    {
+    "country":"Philippines","magnitude":"5.9M","depth":"42.68km","date":"08 April 2017","impact":"19005943 people within 100km","lat":"013.72","long":"120.93","alert":"high"},
+    {
+    "country":"Philippines","magnitude":"5.5M","depth":"42.2km","date":"08 April 2017","impact":"17647553 people within 100km","lat":"013.72","long":"125.89","alert":"high"},
+    {
+    "country":"South Africa","magnitude":"5.2M","depth":"5km","date":"03 April 2017","impact":"1123210 people within 100km","lat":"-026.92","long":"026.76","alert":"low"},
+    {
+    "country":"Philippines","magnitude":"5.7M","depth":"19.59km","date":"05 March 2017","impact":"1998713 people within 100km","lat":"009.82","long":"125.55","alert":"medium"},
+    {
+    "country":"Zambia","magnitude":"5.9M","depth":"26.67km","date":"24 February 2017","impact":"322914 people within 100km","lat":"-008.47","long":"030.08","alert":"low"},
+    {
+    "country":"Pakistan","magnitude":"6.3M","depth":"25.9km","date":"07 February 2017","impact":"283549 people within 100km","lat":"025.22","long":"063.27","alert":"medium"},
+    {
+    "country":"Solomon Islands","magnitude":"7.8M","depth":"41km","date":"08 December 2016","impact":"33822 people within 100km","lat":"-010.66","long":"161.33","alert":"high"},
+    {
+    "country":"Japan","magnitude":"6.9M","depth":"11.35km","date":"21 November 2016","impact":"702984 people within 100km","lat":"037.39","long":"141.40","alert":"medium"},
+    {
+    "country":"Italy","magnitude":"6.5M","depth":"10km","date":"30 October 2016","impact":"2744538 people within 100km","lat":"042.84","long":"013.11","alert":"high"},
+    {
+    "country":"Colobmbia","magnitude":"6.8M","depth":"17km","date":"14 September 2016","impact":"828364 people within 100km","lat":"007.38","long":"-076.16","alert":"medium"},
+    {
+    "country":"Myanmar","magnitude":"6.8M","depth":"84.07km","date":"24 August 2016","impact":"3788932 people within 100km","lat":"020.92","long":"094.48","alert":"high"}
+    ],
+  "cyclones": [
+    {
+      "country":"Myanmar","type":"Tropical Storm","maxwind":"83 km/h","date":"15 April 2017","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.","lat":"019.20","long":"094.20","name":"MAARUTHA-17","alert":"low"},
+      {
+      "country":"New Caledonia","type":"Tropical Storm","maxwind":"157 km/h","date":"08 April 2017","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.196 million","lat":"-026.60","long":"168.20","name":"COOK-17","alert":"medium"},
+      {"country":"Madagascar","type":"Tropical Depression","maxwind":"231 km/h","date":"03 March 2017","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.323 million","lat":"-028.00","long":"049.30","name":"ENAWO-17","alert":"high"},
+      {"country":"Mozambique","type":"Tropical Storm","maxwind":"130 km/h","date":"13 February 2017","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.514 million","lat":"-023.40","long":"034.10","name":"DINEO-17","alert":"high"},
+      {"country":"Philippines","type":"Tropical Depression","maxwind":"250 km/h","date":"21 December 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.403 million","lat":"012.90","long":"113.30","name":"NOCK-TEN-16","alert":"high"},
+      {"country":"India","type":"Hurricane/Typhoon","maxwind":"139km/h","date":"07 December 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 10.279 million","lat":"013.20","long":"080.60","name":"VARDAH-16","alert":"high"},
+      {"country":"Sri Lanka","type":"Tropical Storm","maxwind":"83 km/h","date":"29 November 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 0.","lat":"010.50","long":"080.70","name":"NADA-16","alert":"low"},
+      {"country":"Nicaragua","type":"Tropical Storm","maxwind":"176 km/h","date":"21 November 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 57206","lat":"009.00","long":"-094.00","name":"OTOO-16","alert":"low"},
+      {"country":"Bermuda","type":"Tropical Storm","maxwind":"212 km/h","date":"04 October 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 51818 million","lat":"047.10","long":"-039.50","name":"NICOLE-17","alert":"low"},
+      {"country":"China","type":"Hurricane/Typhoon","maxwind":"269 km/h","date":"14 October 2016","impact":"Population affected by Category 1 wind speeds (120km/h) or greater is 3.573 million","lat":"023.20","long":"115.20","name":"HIMA-16","alert":"high"}
+      ],
+  "floods": [
+    {
+      "country":"Columbia","magnitude":"0.00","date":"01 April 2017","impact":"234 killed and 500 displaced","lat":"001.14","long":"-076.64","alert":"medium"},
+      {
+      "country":"Peru","magnitude":"0.00","date":"03 March 2017","impact":"90 killed and 110000 displaced","lat":"-011.90","long":"-075.42","alert":"medium"},
+      {
+      "country":"Madagascar","magnitude":"0.00","date":"07 March 2017","impact":"0 killed and 84660 displaced","lat":"-016.91","long":"049.18","alert":"low"},
+      {
+      "country":"Philippines","magnitude":"0.00","date":"16 January 2017","impact":"9 killed and 81564 displaced","lat":"007.87","long":"100.06","alert":"medium"},
+      {
+      "country":"Thailand","magnitude":"6.22","date":"31 December 2016","impact":"40 killed and 100000 displaced","lat":"007.31","long":"100.06","alert":"medium"},
+      {
+      "country":"Vietnam","magnitude":"6.62","date":"09 October 2016","impact":"21 killed and 100000 displaced","lat":"016.00","long":"107.68","alert":"medium"},
+      {
+      "country":"USA","magnitude":"6.52","date":"05 October 2016","impact":"920 killed and 6000 displaced","lat":"033.03","long":"-080,90","alert":"high"},
+      {
+      "country":"Thailand","magnitude":"5.45","date":"06 October 2016","impact":"3 killed and 100000 displaced","lat":"014.87","long":"100.40","alert":"low"},
+      {
+      "country":"India","magnitude":"6.98","date":"15 July 2016","impact":"127 killed and 377097 displaced","lat":"025.61","long":"085.19","alert":"high"},
+      {
+      "country":"Japan","magnitude":"5.80","date":"20 Septepmber 2016","impact":"0 killed and 600000 displaced","lat":"036.21","long":"137.37","alert":"medium"},
+      {
+      "country":"North Korea","magnitude":"6.15","date":"05 September 2016","impact":"133 killed and 107000 displaced","lat":"041.08","long":"128.81","alert":"medium"},
+      {
+      "country":"China","magnitude":"7.73","date":"28 June 2016","impact":"128 killed and 230000 displaced","lat":"027.98","long":"114.24","alert":"high"}
+      ]
+}
