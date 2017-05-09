@@ -1,0 +1,63 @@
+{
+  "hair": {
+    "red": [
+      "Linda Holt"
+    ],
+    "blond": [
+      "Max Silver"
+    ],
+    "black": [
+      "Tony Flora"
+    ],
+    "brown": [
+      "Michelle Flora"
+    ]
+  },
+  "eye": {
+    "brown": [
+      "Michelle Flora"
+    ],
+    "blue": [
+      "Max Silver"
+    ],
+    "hazel": [
+      "Tony Flora",
+      "Linda Holt"
+    ]
+  },
+  "skin": {
+    "light": [
+      "Linda Holt",
+      "Max Silver"
+    ],
+    "medium": [
+      "Tony Flora",
+      "Michelle Flora"
+    ],
+    "dark": []
+  },
+  "height": {
+    "short": [
+      "Michelle Flora",
+      "Max Silver"
+    ],
+    "medium": [
+      "Linda Holt"
+    ],
+    "tall": [
+      "Tony Flora"
+    ]
+  },
+  "build": {
+    "small": [
+      "Max Silver"
+    ],
+    "medium": [
+      "Michelle Flora",
+      "Linda Holt"
+    ],
+    "large": [
+      "Tony Flora"
+    ]
+  }
+}
